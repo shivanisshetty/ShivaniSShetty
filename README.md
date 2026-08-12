@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivani S Shetty</h1>
 
 <h3 align="center">
-  Java Full Stack Developer | Spring Boot Developer | Software Engineer
+  Java Developer | Software Engineer
 </h3>
 
 <p align="center">
@@ -58,7 +58,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
 </p>
 
-**HTML5 • CSS3 • JavaScript • TypeScript • React • Bootstrap**
+**HTML5 • CSS3 • JavaScript  • React**
 
 ### 🗄️ Databases
 
