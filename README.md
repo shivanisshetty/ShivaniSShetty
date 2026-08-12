@@ -34,8 +34,6 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
 </p>
@@ -58,7 +56,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
 </p>
 
 **HTML5 • CSS3 • JavaScript • TypeScript • React • Bootstrap**
@@ -68,10 +65,10 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+ 
 </p>
 
-**MySQL • PostgreSQL • MongoDB • SQL**
+**MySQL • PostgreSQL • SQL**
 
 ### 🔧 Tools & Technologies
 
@@ -79,22 +76,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
 </p>
 
-**Git • GitHub • VS Code • Docker • Postman • Maven**
+**Git • GitHub • VS Code  • Postman • Maven**
 
 ---
 
 ## 🚀 Featured Projects
-
-### 📌 ResumeSync – AI Resume Builder & ATS Checker
-
-An AI-powered application that analyzes resumes against job descriptions and helps improve keyword matching and ATS compatibility.
-
-**Tech:** React • Python • Flask • NLP • Scikit-learn
-
----
 
 ### 📌 Real-Time To-Do Application
 
@@ -132,14 +120,6 @@ An interactive chatbot developed to assist users with language learning using co
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shivanisshetty&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivanisshetty&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
